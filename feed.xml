@@ -5,7 +5,23 @@
     <link>https://github.com/miguel11520/heliopolis-zone</link>
     <description>Canal con las últimas noticias directamente relacionadas al Real Betis Balompié</description>
     <copyright>By Miguel Angel Garcia Cuadro</copyright>
-
+ <item>
+      <title>Antony se queda</title>
+      <link>https://github.com/miguel11520/heliopolis-zone/noticia5.html</link>
+      <description>El brasileño a transmitido el deseo de quedarse en la palmera en el que los ultimos 6 meses se ha convertido en su hogar </description>
+      <author>Miguel Angel Garcia</author>
+      <category>noticias</category>
+      <pubDate>Sat, 12 May 2025 20:0241:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Pinchazo en casa</title>
+      <link>https://github.com/miguel11520/heliopolis-zone/noticia4.html</link>
+      <description>Inesperado pinchazo de los heliopolitanos ante un Osasuna que no jugo a nada en todo el partido y consigue rescatar 1 punto ante un betis estancado en la primera parte</description>
+      <author>Miguel Angel Garcia</author>
+      <category>noticias</category>
+      <pubDate>Sat, 12 May 2025 20:0241:00 GMT</pubDate>
+    </item>
     <item>
       <title>28 de Mayo cita con la historia</title>
       <link>https://github.com/miguel11520/heliopolis-zone/noticia3.html</link>
